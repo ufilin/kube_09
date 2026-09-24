@@ -4,6 +4,10 @@
   
 Сервера созданы через terraform, далее через kubespray, единственно после установки необходимо настраивать внутри конфиг kubctl
 
+### Terraform и ansible манифесты:
+  
+**[Манифесты](https://github.com/ufilin/kube_09/blob/main/task_1/)**  
+  
 ### Скриншот  
   
 <p align="center">
@@ -22,6 +26,10 @@
 
 Сервера созданы через terraform, далее через kubespray
 
+### Terraform и ansible манифесты:
+  
+**[Манифесты](https://github.com/ufilin/kube_09/blob/main/task_2/)**  
+  
 ### Скриншоты
 
 <p align="center">
