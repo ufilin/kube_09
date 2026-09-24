@@ -27,7 +27,9 @@
 <p align="center">
   <img src="kube_09-2-1.png" width="800">
 </p>
-
+  
+После выполнение команды shutdown на master2  
+  
 <p align="center">
   <img src="kube_09-2-2.png" width="800">
 </p>
