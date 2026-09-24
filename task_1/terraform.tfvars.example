@@ -1,0 +1,9 @@
+yc_token     = "AQVN..."          # OAuth-токен: https://oauth.yandex.ru/authorize?response_type=token&client_id=1a6990aa636648e9b2ef855fa7bec2fb
+yc_cloud_id  = "b1g..."
+yc_folder_id = "b1g..."
+yc_zone      = "ru-central1-a"
+
+ssh_public_key_path = "~/.ssh/id_ed25519.pub"
+ssh_user            = "deb"
+
+worker_count = 4
